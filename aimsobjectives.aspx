@@ -10,7 +10,7 @@
                         <h1>Aims and Objective</h1>
                         <ol class="breadcrumb">
                             <li><a href="index.aspx">Home</a></li>
-                            <li class="active">Aim and Objective</li>
+                            <li class="active">Aims and Objectives</li>
                         </ol>
                     </div>
                 </div>
