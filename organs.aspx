@@ -40,8 +40,7 @@
 					</ul>
 				</li>
 			</ul>
-		</li>
-	</ul>
+		
 </div>     
                 </div>
             </section>

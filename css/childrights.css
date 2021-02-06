@@ -13,15 +13,15 @@ a:active
 }
 ::-moz-selection { /* Code for Firefox */
     color: #fff;
-    background: #202f8c;
+    background: #0f3057;
 }
 
 ::selection {
     color: #fff; 
-    background: #202f8c;
+    background: #0f3057;
 }
 #footer {
-    background: #202f8c !important;
+    background: #0f3057 !important;
 }
 
 #header
@@ -33,7 +33,7 @@ a:active
 {
     text-transform: uppercase;
     padding: 20px 0 30px;
-    color: #202f8c;
+    color: #0f3057;
     font-weight: 500!important;
 }
 
@@ -63,7 +63,7 @@ p
 
 .p-green
 {
-    color: #202f8c!important;
+    color: #0f3057!important;
     font-weight: 600;
 }
 
@@ -86,7 +86,7 @@ p
 .contact-form h2
 {
     margin-bottom: 36px;
-    color: #202f8c;
+    color: #0f3057;
     font-weight: 500!important;
 }
 
@@ -120,7 +120,7 @@ article.blog h2
 {
     margin-bottom: 14px;
     font-weight: 300;
-    color: #202f8c;
+    color: #0f3057;
     font-weight: 500!important;
 }
 .our-causes .slides>li {
@@ -134,7 +134,7 @@ article.blog h2
     padding: 10px 0 75px;
 }
 .navbar-default {
-    background-color: #202f8c;
+    background-color: #0f3057;
     border-color: #ffffff;
 }
 
@@ -303,19 +303,19 @@ img.emoji
 }
 
 .navbar-nav li > .dropdown-menu {
-    background: #202f8c;
+    background: #0f3057;
     opacity: 1.0;
 }
 
 .hesperiden .tp-bullet
 {
-    border: 3px solid #202f8c!important;
+    border: 3px solid #0f3057!important;
     background: transparent!important;
 }
 
     .hesperiden .tp-bullet:hover, .hesperiden .tp-bullet.selected
     {
-        background: #202f8c!important;
+        background: #0f3057!important;
     }
 
 .bannerbtn a
@@ -352,8 +352,8 @@ img.emoji
 
 h2 strong, .h2 strong
 {
-    border-bottom-color: #202f8c !important;
-    color: #202f8c;
+    border-bottom-color: #0f3057 !important;
+    color: #0f3057;
 }
 
 .testimonial-slider blockquote p
@@ -1283,7 +1283,7 @@ color: #32302f;
     .buttoncareer a
     {breadcrumb-section
         text-decoration: none;
-        background-color: #202f8c;
+        background-color: #0f3057;
         color: #ffffff;
         padding: 20px 0px;
         display: block;
@@ -1652,7 +1652,7 @@ article.blog h2
 
 .we-help .thumbnail:hover
 {
-    border-color: #202f8c!important;
+    border-color: #0f3057!important;
 }
 
 .we-help .thumbnail
@@ -2199,8 +2199,8 @@ article.blog ul
 .formdiv .form-group input:focus, .formdiv .form-group textarea:focus
 {
     /*background: transparent;*/
-    border: 1px solid #202f8c;
-    box-shadow: 0px 0px 5px #202f8c;
+    border: 1px solid #0f3057;
+    box-shadow: 0px 0px 5px #0f3057;
 }
 
 .form-control:focus
@@ -3056,7 +3056,7 @@ font-size: 18px;
 
     #footer ul li a:hover
     {
-        color: #202f8c;
+        color: #0f3057;
     }
 
 #footer .twitter-update a:hover
@@ -3521,19 +3521,22 @@ figure
     font-size: 14px;
 }
 
-.btn-default
-{
-    background: #202f8c;
+.btn-default {
+    background: #0f3057;
     border-color: #ffffff;
     color: #ffffff;
+    font-weight: 500;
 }
 
     .btn-default:hover {
-        color: #007E33;
-        border-color: #202f8c;
+        color: #0f3057 !important;
+        font-weight:500;
+        border-color: #0f3057;
+        background: white;
     }
 
-.row .caption
+   
+        .row .caption
 {
     width: 95%;
 }
@@ -3703,5 +3706,6 @@ article.blog ul li, article.blog ul li a
 @media (max-width: 767px) and (min-width: 320px) .bannerbtn a
 {
     width: 170px !important; text-align: center; padding: 15px 0 10px 15px !important;
+    {}
 }
 /*-----------------------------------*/
