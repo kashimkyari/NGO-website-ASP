@@ -338,6 +338,14 @@
                                 <div class="col-sm-12">
                                     <div class="row">
                                         <div class="col-sm-3">
+                                            <p>NAME: </p>
+                                        </div>
+                                        <div class="col-sm-9">
+                                            <p>CHILD RIGHTS FOUNDATION </p>
+                                        </div>
+                                    </div>
+                                    <div class="row">
+                                        <div class="col-sm-3">
                                             <p>NUBAN: </p>
                                         </div>
                                         <div class="col-sm-9">
@@ -346,7 +354,7 @@
                                     </div>
                                     <div class="row">
                                         <div class="col-sm-3">
-                                            <p>BANK NAME : </p>
+                                            <p>BANK:</p>
                                         </div>
                                         <div class="col-sm-9">
                                             <p>First Bank of Nigeria</p>
@@ -354,21 +362,14 @@
                                     </div>
                                     <div class="row">
                                         <div class="col-sm-3">
-                                            <p>Branch Code : </p>
+                                            <p>Branch Code: </p>
                                         </div>
                                         <div class="col-sm-9">
                                             <p>001 </p>
                                         </div>
                                     </div>
                                    
-                                    <div class="row">
-                                        <div class="col-sm-3">
-                                            <p>NAME </p>
-                                        </div>
-                                        <div class="col-sm-9">
-                                            <p>CHILD RIGHTS FOUNDATION </p>
-                                        </div>
-                                    </div>
+                                    
                                     
                                     
                                 </div>

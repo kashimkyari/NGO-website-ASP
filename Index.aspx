@@ -131,8 +131,8 @@
                 <div class="row">
                     <div class="col-xs-12 ">
                         <header class="page-header section-header">
-                            <h2><b>About Childs Right Foundation</b></h2>
-                            <p style="text-align: center; font-size: 19px; font-weight: 500;">Our mission is to spread awarness among the following field</p>
+                            <h2><b>Our Vision</b></h2>
+                            <p style="text-align: center; font-size: 19px; font-weight: 500;">A safe and well developed child instilled with positive values and prepared for positive adulthood.</p>
                         </header>
                         <div class="row help-list">
 
@@ -154,7 +154,7 @@
                                         <img src="img/icochildren.png" />
                                     </a>
                                     <div class="media-body less-width">
-                                        <h3 class="media-heading">GREEN ENVIRONMENT</h3>
+                                        <h3 class="media-heading">OBJECTIVE 1</h3>
                                     </div>
                                 </article>
                                 <article class="media flex">
@@ -162,7 +162,7 @@
                                         <img src="img/icochildren.png" />
                                     </a>
                                     <div class="media-body less-width">
-                                        <h3 class="media-heading">RURAL COMPUTER EDUCATION</h3>
+                                        <h3 class="media-heading">OBJECTIVE 2</h3>
                                     </div>
                                 </article>
                                 <article class="media flex">
@@ -170,7 +170,7 @@
                                         <img src="img/icochildren.png" />
                                     </a>
                                     <div class="media-body less-width">
-                                        <h3 class="media-heading">TRAFFIC SENSE</h3>
+                                        <h3 class="media-heading">OBJECTIVE 3</h3>
                                     </div>
                                 </article>
                                 <article class="media flex">
@@ -178,7 +178,7 @@
                                         <img src="img/icochildren.png" />
                                     </a>
                                     <div class="media-body less-width">
-                                        <h3 class="media-heading">DRAIN TREATMENT- AWARENESS</h3>
+                                        <h3 class="media-heading">OBJECTIVE 4</h3>
                                     </div>
                                 </article>
                                 <article class="media flex">
@@ -186,7 +186,7 @@
                                         <img src="img/icochildren.png" />
                                     </a>
                                     <div class="media-body less-width">
-                                        <h3 class="media-heading">LEPROSY/ NEEDY PEOPLE HELP</h3>
+                                        <h3 class="media-heading">OBJECTIVE 5</h3>
                                     </div>
                                 </article>
                             </div>

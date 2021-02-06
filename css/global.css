@@ -74,7 +74,7 @@ h6, .h6 {
 }
 p {
     font-size: 14px;
-    color: #727272;
+    color: #26211d;
     line-height: 1.6;
 }
 .blog h2 a, .blog ul li a ,.spacer-bottom h3 a,.palce-name a{
@@ -1100,7 +1100,7 @@ a.brand img {
     -webkit-transition: All 250ms ease-in;
     -moz-transition: All 250ms ease-in;
     -o-transition: All 250ms ease-in;
-    border-bottom: #ffbb33 solid 1px;
+    border-bottom: #ffffff solid 1px;
 }
 
 #sub-menu-a:hover
@@ -1115,7 +1115,7 @@ a.brand img {
     padding: 0 21px;
 }
 .navbar-nav > li > .dropdown-menu > ul > li {
-    border-bottom: r-style solid 1px;
+    border-bottom: #ffffff solid  1px;
     list-style: none
 }
     .navbar-nav > li > .dropdown-menu > ul > li:last-child

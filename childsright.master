@@ -9,6 +9,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <title>Childs Right Foundation :: Home</title>
     <meta name="description" content="Childs Right Foundation" />
+    <link rel='icon' href='/img/favicon.ico' type='image/x-icon'/ >
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" />
     <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet" />
     <link href="css/woocommerce.css" rel="stylesheet" />
@@ -20,13 +21,14 @@
     <link href="css/global.css" rel="stylesheet" />
     <link href="css/owl.carousel.css" rel="stylesheet" />
     <link href="css/owl.theme.css" rel="stylesheet" />
+    <link href="css/tree.css" rel="stylesheet" />
     <link href="css/responsive.css" rel="stylesheet" />
     <link href="css/settings.css" rel="stylesheet" />
     <link href="css/styles.css" rel="stylesheet" />
     <link href="css/vc.css" rel="stylesheet" />
     <link href="css/woocommerce-layout.css" rel="stylesheet" />
     <link href="css/woocommerce-smallscreen.css" rel="stylesheet" />
-    <link href="css/prothsahanteam.css" rel="stylesheet" />
+    <link href="css/childrights.css" rel="stylesheet" />
     <link rel='stylesheet' id='Lato-css' href='http://fonts.googleapis.com/css?family=Lato%3Aitalic&#038;subset=latin&#038;ver=4.5.6' type='text/css' media='all' />
     <script src="js/jquery.js"></script>
     <script src="js/jquery-migrate.min.js"></script>
@@ -379,7 +381,7 @@
                 <div class="container">
                     <div class="row primary-header">
                         <a href="index.aspx" class="col-xs-12 col-sm-2 brand" title="Childs Right Foundation">
-                            <img src="img/logo.png" /></a>
+                            <img src="img/logo.jpeg" width="200" height="150"/></a>
                        
                     </div>
                 </div>
@@ -400,12 +402,12 @@
                                 <ul class="nav navbar-nav">
                                     <li><a href="index.aspx">Home</a></li>
                                     <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-3114 submenu-icon">
-                                        <a href="#aimsobjectives.aspx" data-toggle="dropdown">About us</a>
+                                        <a href="aimsobjectives.aspx" data-toggle="dropdown">About us</a>
                                         <div class="dropdown-menu">
                                             <ul class="sub-menu menu-odd  menu-depth-1">
-                                                <li><a href="#aimsobjectives.aspx">Aim and Objective</a></li>
+                                                <li><a href="aimsobjectives.aspx">Aims and Objectives</a></li>
                                                 <li><a href="#registration.aspx">Join Us</a></li>
-                                                <li><a href="#OurTeam.aspx">Our Team</a></li>
+                                                <li><a href="organs.aspx">Organizational Structure</a></li>
                                                 <li><a href="#ContactUs.aspx">Contact Detail</a></li>
                                             </ul>
                                         </div>
@@ -418,7 +420,7 @@
                                                     <a href="#Health-care-awarness.aspx"> Awareness</a></li>
                                                 <li class="dropdown-submenu">
                                                     <a class="dropdown-toggle" data-toggle="dropdown" href="#">FOCUS 2</a>
-                                                    <ul class="dropdown-menu" style="min-width: 370px;">
+                                                    <ul class="dropdown-menu" style="min-width: 200px;">
                                                         <li><a href="#globalWarming.aspx" id="sub-menu-a">FOCUS 2-1 </a></li>
                                                         <li><a href="#globalwarmingprevention.aspx" id="sub-menu-a">FOCUS 2-2</a></li>
                                                         <li><a href="#Appeal.aspx" id="sub-menu-a">FOCUS 2-3</a></li>
@@ -441,7 +443,7 @@
                                             </ul>
                                         </div>
                                     </li>
-                                    <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-3115 submenu-icon">
+                                   <!-- <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-3115 submenu-icon">
                                         <a href="#FAQ-GlobalWarming.aspx" data-toggle="dropdown">FAQ</a>
                                         <div class="dropdown-menu">
                                             <ul class="sub-menu menu-odd  menu-depth-1">
@@ -449,7 +451,7 @@
                                                 <li><a href="#FAQ-EyeDonation.aspx">About Something</a></li>
                                             </ul>
                                         </div>
-                                    </li>
+                                    </li> -->
                                     <li><a href="ContactUs.aspx">Contact Us</a></li>
                                 </ul>
                             </nav>
@@ -480,9 +482,9 @@
 
                             <div class="menu-footer-widget-menu-about-us-container">
                                 <ul id="menu-footer-widget-menu-about-us" class="menu">
-                                    <li><a href="#aimsobjectives.aspx">Aim and Objective</a></li>
+                                    <li><a href="aimsobjectives.aspx">Aims and Objectives</a></li>
                                     <li><a href="#VolunteerRegistration.aspx">Join Us</a></li>
-                                    <li><a href="#OurTeam.aspx">Our Team</a></li>
+                                    <li><a href="organs.aspx">Organs</a></li>
                                     <li><a href="#ContactUs.aspx">Contact Us</a></li>
                                 </ul>
                             </div>
@@ -530,7 +532,7 @@
                     <div class="container">
                         <div class="row">
                             <div class="col-xs-12">
-                                <span>Copyright © 2021 Childs Right Foundation. All rights reserved. </span>&nbsp;</div>
+                                <span>Copyright © 2021 Child Rights Foundation. All rights reserved. </span>&nbsp;</div>
                         </div>
                     </div>
                 </div>
