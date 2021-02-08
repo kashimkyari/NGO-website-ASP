@@ -203,7 +203,8 @@
                     <div class="col-xs-12 col-sm-7 col-md-5">
                         <h2>Become a <strong style="color:aqua">Volunteer</strong></h2>
                         <p>
-                            Child rights Foundation is a team of self-motivated people of all ages and from different walks of life  who give of their time and resources to make positive difference. Come, be a part of Our Team.<a href="#VolunteerRegistration.aspx" class="btn btn-default btn-lg join-today">JOIN US</a><div class="modal join-now-form">
+                            Child rights Foundation is a team of self-motivated people of all ages and from different walks of life  who give of their time and resources to make positive difference. Come, be a part of Our Team.<a href="#VolunteerRegistration.aspx" class="btn btn-default btn-lg join-today">JOIN US</a> </p>
+                            <div class="modal join-now-form">
                                 <div class="modal-dialog">
                                     <div class="modal-content">
                                         <div class="modal-header">
