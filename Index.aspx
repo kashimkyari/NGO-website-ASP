@@ -278,7 +278,7 @@
                                     </div>
                                 </div>
                             </div>
-                        </p>
+                        
                     </div>
                 </div>
             </div>

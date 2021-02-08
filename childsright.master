@@ -380,7 +380,7 @@
             <header id="header">
                 <div class="container">
                     <div class="row primary-header">
-                        <a href="index.aspx" class="col-xs-12 col-sm-2 brand" title="Childs Right Foundation">
+                        <a href="index.aspx" class="col-xs-12 col-sm-2 brand" title="Child Rights Foundation">
                             <img src="img/logo.jpeg" width="200" height="150"/></a>
                        
                     </div>
@@ -402,15 +402,15 @@
                                 <ul class="nav navbar-nav">
                                     <li><a href="index.aspx">Home</a></li>
                                     <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-3114 submenu-icon">
-                                        <a href="aimsobjectives.aspx" data-toggle="dropdown">About us</a>
-                                        <div class="dropdown-menu">
+                                        <a href="aimsobjectives.aspx" >About us</a>          <!-- add this to <a> tag to make dropdown data-toggle="dropdown"-->
+                                       <!-- <div class="dropdown-menu">
                                             <ul class="sub-menu menu-odd  menu-depth-1">
                                                 <li><a href="aimsobjectives.aspx">Aims and Objectives</a></li>
                                                 <li><a href="#registration.aspx">Join Us</a></li>
                                                 <li><a href="organs.aspx">Organizational Structure</a></li>
                                                 <li><a href="#ContactUs.aspx">Contact Detail</a></li>
                                             </ul>
-                                        </div>
+                                        </div> -->
                                     </li>
                                     <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-3115 submenu-icon">
                                         <a href="#Health-care-awarness.aspx" data-toggle="dropdown">Our Focus</a>
