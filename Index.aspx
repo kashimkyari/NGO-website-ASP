@@ -142,10 +142,14 @@
                                     padding-left: 57px;
                                 }
                             </style>
-
+                            <br />
+                            <header class="page-header section-header">
+                            <h2><b>Our Aims & Objectives</b></h2>
+                          <!-- <p style="text-align: center; font-size: 19px; font-weight: 500;"> </p> -->
+                        </header>
                             <div class="col-xs-12 col-sm-12 col-lg-6 col-md-6 col-lg-offset-1">
                                 <div class="embed-responsive embed-responsive-16by9">
-                                    <iframe width="560" height="315" src="https://www.youtube.com/embed/V1BFLitBkco" frameborder="0" allowfullscreen></iframe>
+                                    <iframe width="560" height="550" src="https://www.youtube.com/embed/V1BFLitBkco" frameborder="0" allowfullscreen></iframe>
                                 </div>
                             </div>
                             <div class="col-xs-12 col-sm-12 col-lg-5 col-md-6">
@@ -154,7 +158,7 @@
                                         <img src="img/icochildren.png" />
                                     </a>
                                     <div class="media-body less-width">
-                                        <h3 class="media-heading">OBJECTIVE 1</h3>
+                                        <h3 class="media-heading">To protect the rights of the Unborn child.</h3>
                                     </div>
                                 </article>
                                 <article class="media flex">
@@ -162,7 +166,7 @@
                                         <img src="img/icochildren.png" />
                                     </a>
                                     <div class="media-body less-width">
-                                        <h3 class="media-heading">OBJECTIVE 2</h3>
+                                        <h3 class="media-heading">To instill values of hardwork, obedience, cleanliness and responsibility in the child.</h3>
                                     </div>
                                 </article>
                                 <article class="media flex">
@@ -170,7 +174,7 @@
                                         <img src="img/icochildren.png" />
                                     </a>
                                     <div class="media-body less-width">
-                                        <h3 class="media-heading">OBJECTIVE 3</h3>
+                                        <h3 class="media-heading">To instill self-confidence and esteem in children in disadvantaged conditions.</h3>
                                     </div>
                                 </article>
                                 <article class="media flex">
@@ -178,7 +182,7 @@
                                         <img src="img/icochildren.png" />
                                     </a>
                                     <div class="media-body less-width">
-                                        <h3 class="media-heading">OBJECTIVE 4</h3>
+                                        <h3 class="media-heading">To create awareness and support positive efforts for the survival,development and participation of children in activities that affect them.</h3>
                                     </div>
                                 </article>
                                 <article class="media flex">
@@ -186,7 +190,15 @@
                                         <img src="img/icochildren.png" />
                                     </a>
                                     <div class="media-body less-width">
-                                        <h3 class="media-heading">OBJECTIVE 5</h3>
+                                        <h3 class="media-heading">To provide platform for advocacy activities on child Rights abuse.</h3>
+                                    </div>
+                                </article>
+                                 <article class="media flex">
+                                    <a class="pull-left warning-icon-box" href="#">
+                                        <img src="img/icochildren.png" />
+                                    </a>
+                                    <div class="media-body less-width">
+                                        <h3 class="media-heading">To promote Girl Child Education.</h3>
                                     </div>
                                 </article>
                             </div>
