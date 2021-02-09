@@ -4,7 +4,7 @@
    <div class="row">
         <div class="col-sm-12">
             <h3 class="box-title">Recent Registration</h3>
-            <%--<div class="table-responsive">
+            <div class="table-responsive">
                 <table class="table">
                     <thead>
                         <tr>
@@ -67,7 +67,7 @@
                         </tr>
                     </tbody>
                 </table>
-            </div>--%>
+            </div>
 
 
         </div>
